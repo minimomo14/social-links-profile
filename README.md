@@ -40,7 +40,7 @@ Hover Effect
 ### Links
 
 - Solution URL: (https://github.com/minimomo14/social-links-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://minimomo14.github.io/social-links-profile/)
 
 ## My process
 
